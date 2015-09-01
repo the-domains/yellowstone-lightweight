@@ -1,6 +1,7 @@
 name: yellowstone-lightweight
 favicon: null
 layout_spectrum: 0.02333
+typography_spectrum: 0.26333
 cta:
   domain: null
   bucket: null
