@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yellowstone-lightweight]]></title>
+        <description><![CDATA[yellowstone-lightweight]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Sep 2015 17:38:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DA BISON! @amaan_duhh @_angie_m_mcgill_ @nicolekluthe9 @tarynraeszautner @kendral333 #yellowstone #yellowstonenationalpark #yellowstonenationalpark2015 #trip #america #bison #bisoncountry #tourist #inspiration #wildlife #summer #landscape #photography]]></title>
+            <description><![CDATA[<article><h1>DA BISON! @amaan_duhh @_angie_m_mcgill_ @nicolekluthe9 @tarynraeszautner @kendral333 #yellowstone #yellowstonenationalpark #yellowstonenationalpark2015 #trip #america #bison #bisoncountry #tourist #inspiration #wildlife #summer #landscape #photography</h1><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e35/11375207_115160162171320_577431028_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/7GF3f8jiBa/?tagged=yellowstone</link>
+            <guid isPermaLink="false">aed21e9a-8bba-4692-9011-8b09deff0110</guid>
+            <pubDate>Tue, 01 Sep 2015 17:38:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
